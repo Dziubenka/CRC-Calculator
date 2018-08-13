@@ -167,13 +167,13 @@ window.onload=function() {
 		document.getElementById("hash0").value="";
 		document.getElementById("info").innerHTML="";
 
-	};
+	}
 
 	document.getElementById("poly0").oninput=function() {
 		document.getElementById("hash0").value="";
 		document.getElementById("info").innerHTML="";
 
-	};
+	}
 
 
 	document.getElementById("run0").onclick=function() {
